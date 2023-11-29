@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: Hacker News
     url: https://news.ycombinator.com
+  - name: hidden_sites
+    url: $hidden_sites
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.jp
 
