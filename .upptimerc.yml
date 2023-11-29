@@ -18,8 +18,7 @@ sites:
   - name: Univ VPN
     check: "tcp-ping"
     url: $UNIV_VPN
-    prot: $UNIV_VPN_PORT
-    __dangerous__insecure: true
+    prot: 443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
