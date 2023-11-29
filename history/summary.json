@@ -58,19 +58,19 @@
     "url": "$UNIV_VPN1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-vpn-1",
-    "status": "up",
-    "uptime": "79.46%",
-    "uptimeDay": "79.46%",
-    "uptimeWeek": "79.46%",
-    "uptimeMonth": "79.46%",
-    "uptimeYear": "79.46%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 809,
     "timeDay": 809,
     "timeWeek": 809,
     "timeMonth": 809,
     "timeYear": 809,
     "dailyMinutesDown": {
-      "2023-11-29": 8
+      "2023-11-29": 0
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-vpn-2",
     "status": "down",
-    "uptime": "21.18%",
-    "uptimeDay": "21.18%",
-    "uptimeWeek": "21.18%",
-    "uptimeMonth": "21.18%",
-    "uptimeYear": "21.18%",
+    "uptime": "15.14%",
+    "uptimeDay": "15.14%",
+    "uptimeWeek": "15.14%",
+    "uptimeMonth": "15.14%",
+    "uptimeYear": "15.14%",
     "time": 1278,
     "timeDay": 1278,
     "timeWeek": 1278,
     "timeMonth": 1278,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2023-11-29": 30
+      "2023-11-29": 45
     }
   },
   {
@@ -99,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-vpn",
     "status": "up",
-    "uptime": "18.61%",
-    "uptimeDay": "18.61%",
-    "uptimeWeek": "18.61%",
-    "uptimeMonth": "18.61%",
-    "uptimeYear": "18.61%",
+    "uptime": "22.44%",
+    "uptimeDay": "22.44%",
+    "uptimeWeek": "22.44%",
+    "uptimeMonth": "22.44%",
+    "uptimeYear": "22.44%",
     "time": 418,
     "timeDay": 418,
     "timeWeek": 418,
