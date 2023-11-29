@@ -16,9 +16,9 @@ sites:
     expectedStatusCodes:
     - 200
   - name: Univ VPN
-    # check: "tcp-ping"
+    check: "tcp-ping"
     url: $UNIV_VPN
-    __dangerous__insecure: true
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
