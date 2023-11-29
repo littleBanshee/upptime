@@ -22,8 +22,6 @@ sites:
   - name: Univ VPN2
     url: $UNIV_VPN2
     maxResponseTime: 3500
-    expectedStatusCodes:
-    - 200
   - name: Univ VPN
     check: "tcp-ping"
     url: $UNIV_VPN
