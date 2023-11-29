@@ -16,7 +16,7 @@ sites:
   - name: Univ VPN
     check: "tcp-ping"
     url: $UNIV_VPN
-    prot:$UNIV_VPN_PORT
+    prot: $UNIV_VPN_PORT
 
 
 status-website:
