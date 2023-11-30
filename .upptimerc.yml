@@ -5,28 +5,44 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+    
   - name: Univ Home
     url: $UNIV_HOME
     maxResponseTime: 3350
     expectedStatusCodes:
     - 200
+    
   - name: Univ SSO
     url: $UNIV_SSO
     maxResponseTime: 3350
     expectedStatusCodes:
     - 200
+    
   - name: Univ Shibboleth
     url: $UNIV_SHIBBOLETH
     maxResponseTime: 3350
     expectedStatusCodes:
     - 200
+    
+  - name: Univ IMAPS
+    check: "tcp-ping"
+    url: $UNIV_MAIL
+    port: 993
+    
+  - name: Univ SMTPS
+    check: "tcp-ping"
+    url: $UNIV_MAIL
+    port: 465
+    
   - name: Univ VPN1
     check: "tcp-ping"
     url: $UNIV_VPN1
     port: 443
+    
   - name: Univ VPN2
     url: $UNIV_VPN2
     maxResponseTime: 3350
+    
   - name: Univ VPN
     check: "tcp-ping"
     url: $UNIV_VPN
