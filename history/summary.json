@@ -116,18 +116,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-vpn-2",
     "status": "up",
-    "uptime": "61.37%",
-    "uptimeDay": "63.21%",
-    "uptimeWeek": "61.37%",
-    "uptimeMonth": "61.37%",
-    "uptimeYear": "61.37%",
+    "uptime": "62.06%",
+    "uptimeDay": "64.18%",
+    "uptimeWeek": "62.06%",
+    "uptimeMonth": "62.06%",
+    "uptimeYear": "62.06%",
     "time": 1504,
     "timeDay": 1482,
     "timeWeek": 1504,
     "timeMonth": 1504,
     "timeYear": 1504,
     "dailyMinutesDown": {
-      "2023-12-01": 14,
       "2023-11-30": 516,
       "2023-11-29": 252
     }
