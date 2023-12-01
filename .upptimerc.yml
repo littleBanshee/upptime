@@ -39,10 +39,11 @@ sites:
   - name: Univ VPN2
     url: $UNIV_VPN2
     maxResponseTime: 3350
-    
-  - name: Univ VPN
+
+  # testing   
+  - name: Univ VPNx
     check: "tcp-ping"
-    url: $UNIV_VPN
+    url: $UNIV_VPNX
     port: 443
     
 
@@ -53,11 +54,9 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  # introTitle: "**Services Real-time Status**"
-  # introMessage: This is the open-source and powered entirely by GitHub.
   navbar:
     - title: Status
-      href: /
+      href: https://littlebanshee.github.io/upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
