@@ -4,18 +4,20 @@
     "url": "$UNIV_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-home",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2334,
-    "timeDay": 2163,
-    "timeWeek": 2403,
-    "timeMonth": 2334,
-    "timeYear": 2334,
-    "dailyMinutesDown": {}
+    "time": 2351,
+    "timeDay": 2458,
+    "timeWeek": 2455,
+    "timeMonth": 2351,
+    "timeYear": 2351,
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "Univ SSO",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1892,
-    "timeDay": 1982,
-    "timeWeek": 1887,
-    "timeMonth": 1892,
-    "timeYear": 1892,
+    "time": 1897,
+    "timeDay": 2028,
+    "timeWeek": 1912,
+    "timeMonth": 1897,
+    "timeYear": 1897,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1845,
-    "timeDay": 1868,
-    "timeWeek": 1859,
-    "timeMonth": 1845,
-    "timeYear": 1845,
+    "time": 1846,
+    "timeDay": 1931,
+    "timeWeek": 1850,
+    "timeMonth": 1846,
+    "timeYear": 1846,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-imaps",
     "status": "down",
-    "uptime": "96.34%",
-    "uptimeDay": "52.85%",
-    "uptimeWeek": "93.26%",
-    "uptimeMonth": "96.34%",
-    "uptimeYear": "96.34%",
+    "uptime": "94.15%",
+    "uptimeDay": "20.04%",
+    "uptimeWeek": "88.58%",
+    "uptimeMonth": "94.15%",
+    "uptimeYear": "94.15%",
     "time": 248,
-    "timeDay": 224,
-    "timeWeek": 233,
+    "timeDay": 234,
+    "timeWeek": 234,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-12-14": 679,
+      "2023-12-14": 1151,
       "2023-12-03": 64
     }
   },
@@ -80,18 +82,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-smtps",
     "status": "down",
-    "uptime": "96.65%",
-    "uptimeDay": "52.85%",
-    "uptimeWeek": "93.26%",
-    "uptimeMonth": "96.65%",
-    "uptimeYear": "96.65%",
+    "uptime": "94.45%",
+    "uptimeDay": "20.04%",
+    "uptimeWeek": "88.58%",
+    "uptimeMonth": "94.45%",
+    "uptimeYear": "94.45%",
     "time": 242,
-    "timeDay": 410,
-    "timeWeek": 257,
+    "timeDay": 233,
+    "timeWeek": 261,
     "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2023-12-14": 679
+      "2023-12-14": 1151
     }
   },
   {
@@ -100,16 +102,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-vpn-1",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 900,
-    "timeDay": 919,
-    "timeWeek": 851,
-    "timeMonth": 900,
-    "timeYear": 900,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 899,
+    "timeDay": 964,
+    "timeWeek": 842,
+    "timeMonth": 899,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2023-11-30": 44
     }
@@ -125,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1517,
-    "timeDay": 1472,
-    "timeWeek": 1541,
-    "timeMonth": 1517,
-    "timeYear": 1517,
+    "time": 1513,
+    "timeDay": 1499,
+    "timeWeek": 1496,
+    "timeMonth": 1513,
+    "timeYear": 1513,
     "dailyMinutesDown": {
       "2023-11-29": 15
     }
@@ -140,18 +142,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-vp-nx",
     "status": "down",
-    "uptime": "96.51%",
-    "uptimeDay": "52.86%",
-    "uptimeWeek": "93.27%",
-    "uptimeMonth": "96.51%",
-    "uptimeYear": "96.51%",
+    "uptime": "94.22%",
+    "uptimeDay": "20.05%",
+    "uptimeWeek": "88.58%",
+    "uptimeMonth": "94.22%",
+    "uptimeYear": "94.22%",
     "time": 551,
-    "timeDay": 613,
-    "timeWeek": 530,
+    "timeDay": 634,
+    "timeWeek": 558,
     "timeMonth": 551,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2023-12-14": 679
+      "2023-12-14": 1151
     }
   }
 ]
