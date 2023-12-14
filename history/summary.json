@@ -4,19 +4,19 @@
     "url": "$UNIV_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-home",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2344,
-    "timeDay": 2357,
-    "timeWeek": 2427,
-    "timeMonth": 2344,
-    "timeYear": 2344,
+    "status": "degraded",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2353,
+    "timeDay": 2476,
+    "timeWeek": 2461,
+    "timeMonth": 2353,
+    "timeYear": 2353,
     "dailyMinutesDown": {
-      "2023-12-14": 8
+      "2023-12-14": 0
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-imaps",
     "status": "down",
-    "uptime": "94.11%",
-    "uptimeDay": "19.49%",
-    "uptimeWeek": "88.50%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "94.11%",
+    "uptime": "93.85%",
+    "uptimeDay": "15.42%",
+    "uptimeWeek": "87.92%",
+    "uptimeMonth": "93.85%",
+    "uptimeYear": "93.85%",
     "time": 248,
     "timeDay": 234,
     "timeWeek": 234,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-12-14": 1159,
+      "2023-12-14": 1218,
       "2023-12-03": 64
     }
   },
@@ -82,18 +82,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-smtps",
     "status": "down",
-    "uptime": "94.42%",
-    "uptimeDay": "19.49%",
-    "uptimeWeek": "88.50%",
-    "uptimeMonth": "94.42%",
-    "uptimeYear": "94.42%",
+    "uptime": "94.15%",
+    "uptimeDay": "15.42%",
+    "uptimeWeek": "87.92%",
+    "uptimeMonth": "94.15%",
+    "uptimeYear": "94.15%",
     "time": 242,
     "timeDay": 233,
     "timeWeek": 261,
     "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2023-12-14": 1159
+      "2023-12-14": 1218
     }
   },
   {
@@ -142,18 +142,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-vp-nx",
     "status": "down",
-    "uptime": "94.18%",
-    "uptimeDay": "19.50%",
-    "uptimeWeek": "88.50%",
-    "uptimeMonth": "94.18%",
-    "uptimeYear": "94.18%",
+    "uptime": "93.90%",
+    "uptimeDay": "15.43%",
+    "uptimeWeek": "87.92%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "93.90%",
     "time": 551,
     "timeDay": 634,
     "timeWeek": 558,
     "timeMonth": 551,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2023-12-14": 1159
+      "2023-12-14": 1218
     }
   }
 ]
