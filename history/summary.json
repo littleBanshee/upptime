@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2347,
-    "timeDay": 2498,
-    "timeWeek": 2443,
-    "timeMonth": 2347,
-    "timeYear": 2347,
+    "time": 2334,
+    "timeDay": 2163,
+    "timeWeek": 2403,
+    "timeMonth": 2334,
+    "timeYear": 2334,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1891,
-    "timeDay": 2026,
-    "timeWeek": 1901,
-    "timeMonth": 1891,
-    "timeYear": 1891,
+    "time": 1892,
+    "timeDay": 1982,
+    "timeWeek": 1887,
+    "timeMonth": 1892,
+    "timeYear": 1892,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1837,
-    "timeDay": 1698,
-    "timeWeek": 1856,
-    "timeMonth": 1837,
-    "timeYear": 1837,
+    "time": 1845,
+    "timeDay": 1868,
+    "timeWeek": 1859,
+    "timeMonth": 1845,
+    "timeYear": 1845,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-imaps",
     "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
+    "uptime": "96.34%",
+    "uptimeDay": "52.85%",
+    "uptimeWeek": "93.26%",
+    "uptimeMonth": "96.34%",
+    "uptimeYear": "96.34%",
     "time": 248,
-    "timeDay": 226,
-    "timeWeek": 244,
+    "timeDay": 224,
+    "timeWeek": 233,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-12-14": 32,
+      "2023-12-14": 679,
       "2023-12-03": 64
     }
   },
@@ -80,18 +80,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-smtps",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "96.65%",
+    "uptimeDay": "52.85%",
+    "uptimeWeek": "93.26%",
+    "uptimeMonth": "96.65%",
+    "uptimeYear": "96.65%",
     "time": 242,
-    "timeDay": 337,
+    "timeDay": 410,
     "timeWeek": 257,
     "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2023-12-14": 32
+      "2023-12-14": 679
     }
   },
   {
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 897,
-    "timeDay": 758,
-    "timeWeek": 834,
-    "timeMonth": 897,
-    "timeYear": 897,
+    "time": 900,
+    "timeDay": 919,
+    "timeWeek": 851,
+    "timeMonth": 900,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2023-11-30": 44
     }
@@ -126,8 +126,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 1517,
-    "timeDay": 1447,
-    "timeWeek": 1563,
+    "timeDay": 1472,
+    "timeWeek": 1541,
     "timeMonth": 1517,
     "timeYear": 1517,
     "dailyMinutesDown": {
@@ -140,18 +140,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-vp-nx",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "96.51%",
+    "uptimeDay": "52.86%",
+    "uptimeWeek": "93.27%",
+    "uptimeMonth": "96.51%",
+    "uptimeYear": "96.51%",
     "time": 551,
-    "timeDay": 579,
-    "timeWeek": 528,
+    "timeDay": 613,
+    "timeWeek": 530,
     "timeMonth": 551,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2023-12-14": 32
+      "2023-12-14": 679
     }
   }
 ]
