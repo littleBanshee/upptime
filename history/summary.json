@@ -4,19 +4,19 @@
     "url": "$UNIV_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-home",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 2352,
-    "timeDay": 2460,
-    "timeWeek": 2456,
-    "timeMonth": 2352,
-    "timeYear": 2352,
+    "status": "degraded",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2371,
+    "timeDay": 2675,
+    "timeWeek": 2523,
+    "timeMonth": 2371,
+    "timeYear": 2371,
     "dailyMinutesDown": {
-      "2023-12-14": 14
+      "2023-12-15": 0
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1897,
-    "timeDay": 2028,
-    "timeWeek": 1912,
-    "timeMonth": 1897,
-    "timeYear": 1897,
+    "time": 1899,
+    "timeDay": 2082,
+    "timeWeek": 1918,
+    "timeMonth": 1899,
+    "timeYear": 1899,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1846,
-    "timeDay": 1931,
-    "timeWeek": 1850,
-    "timeMonth": 1846,
-    "timeYear": 1846,
+    "time": 1840,
+    "timeDay": 1821,
+    "timeWeek": 1827,
+    "timeMonth": 1840,
+    "timeYear": 1840,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-imaps",
     "status": "down",
-    "uptime": "93.78%",
-    "uptimeDay": "14.46%",
-    "uptimeWeek": "87.78%",
-    "uptimeMonth": "93.78%",
-    "uptimeYear": "93.78%",
+    "uptime": "93.09%",
+    "uptimeDay": "3.60%",
+    "uptimeWeek": "86.23%",
+    "uptimeMonth": "93.09%",
+    "uptimeYear": "93.09%",
     "time": 248,
-    "timeDay": 234,
+    "timeDay": 0,
     "timeWeek": 234,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-12-14": 1232,
+      "2023-12-15": 45,
+      "2023-12-14": 1343,
       "2023-12-03": 64
     }
   },
@@ -82,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-smtps",
     "status": "down",
-    "uptime": "94.09%",
-    "uptimeDay": "14.46%",
-    "uptimeWeek": "87.78%",
-    "uptimeMonth": "94.09%",
-    "uptimeYear": "94.09%",
+    "uptime": "93.39%",
+    "uptimeDay": "3.60%",
+    "uptimeWeek": "86.23%",
+    "uptimeMonth": "93.39%",
+    "uptimeYear": "93.39%",
     "time": 242,
-    "timeDay": 233,
+    "timeDay": 0,
     "timeWeek": 261,
     "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2023-12-14": 1232
+      "2023-12-15": 45,
+      "2023-12-14": 1343
     }
   },
   {
@@ -108,8 +110,8 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
     "time": 899,
-    "timeDay": 964,
-    "timeWeek": 842,
+    "timeDay": 958,
+    "timeWeek": 844,
     "timeMonth": 899,
     "timeYear": 899,
     "dailyMinutesDown": {
@@ -127,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1513,
-    "timeDay": 1499,
-    "timeWeek": 1496,
-    "timeMonth": 1513,
-    "timeYear": 1513,
+    "time": 1515,
+    "timeDay": 1550,
+    "timeWeek": 1504,
+    "timeMonth": 1515,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2023-11-29": 15
     }
@@ -142,18 +144,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-vp-nx",
     "status": "down",
-    "uptime": "93.84%",
-    "uptimeDay": "14.46%",
-    "uptimeWeek": "87.78%",
-    "uptimeMonth": "93.84%",
-    "uptimeYear": "93.84%",
+    "uptime": "93.11%",
+    "uptimeDay": "3.61%",
+    "uptimeWeek": "86.23%",
+    "uptimeMonth": "93.11%",
+    "uptimeYear": "93.11%",
     "time": 551,
-    "timeDay": 634,
+    "timeDay": 0,
     "timeWeek": 558,
     "timeMonth": 551,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2023-12-14": 1232
+      "2023-12-15": 45,
+      "2023-12-14": 1343
     }
   }
 ]
