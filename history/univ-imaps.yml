@@ -1,7 +1,7 @@
 url: $UNIV_MAIL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-15T12:13:10.260Z
+status: up
+code: 200
+responseTime: 188
+lastUpdated: 2023-12-16T01:36:08.505Z
 startTime: 2023-11-30T10:47:06.664Z
 generator: Upptime <https://github.com/upptime/upptime>
