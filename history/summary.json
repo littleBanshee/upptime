@@ -7,7 +7,7 @@
     "status": "degraded",
     "uptime": "98.19%",
     "uptimeDay": "89.65%",
-    "uptimeWeek": "95.06%",
+    "uptimeWeek": "95.05%",
     "uptimeMonth": "98.19%",
     "uptimeYear": "98.19%",
     "time": 2993,
@@ -16,7 +16,7 @@
     "timeMonth": 2993,
     "timeYear": 2993,
     "dailyMinutesDown": {
-      "2023-12-18": 87,
+      "2023-12-18": 88,
       "2023-12-17": 114,
       "2023-12-16": 84,
       "2023-12-15": 213
