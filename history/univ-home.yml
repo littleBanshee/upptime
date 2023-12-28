@@ -1,7 +1,7 @@
 url: $UNIV_HOME
-status: up
+status: degraded
 code: 200
-responseTime: 1182
-lastUpdated: 2023-12-28T02:57:12.734Z
+responseTime: 9975
+lastUpdated: 2023-12-28T03:34:24.141Z
 startTime: 2023-11-29T10:06:56.362Z
 generator: Upptime <https://github.com/upptime/upptime>
