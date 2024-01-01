@@ -4,17 +4,17 @@
     "url": "$UNIV_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-home",
-    "status": "up",
-    "uptime": "95.19%",
-    "uptimeDay": "80.09%",
-    "uptimeWeek": "86.94%",
-    "uptimeMonth": "94.70%",
-    "uptimeYear": "95.19%",
-    "time": 4850,
-    "timeDay": 5649,
-    "timeWeek": 5857,
-    "timeMonth": 5002,
-    "timeYear": 4850,
+    "status": "degraded",
+    "uptime": "95.24%",
+    "uptimeDay": "80.58%",
+    "uptimeWeek": "86.93%",
+    "uptimeMonth": "94.76%",
+    "uptimeYear": "95.24%",
+    "time": 4858,
+    "timeDay": 5668,
+    "timeWeek": 5895,
+    "timeMonth": 5013,
+    "timeYear": 4858,
     "dailyMinutesDown": {
       "2024-01-01": 233,
       "2023-12-31": 130,
@@ -28,7 +28,7 @@
       "2023-12-23": 210,
       "2023-12-22": 113,
       "2023-12-21": 197,
-      "2023-12-20": 99
+      "2023-12-20": 74
     }
   },
   {
@@ -45,7 +45,7 @@
     "time": 1911,
     "timeDay": 1434,
     "timeWeek": 1753,
-    "timeMonth": 1920,
+    "timeMonth": 1918,
     "timeYear": 1911,
     "dailyMinutesDown": {}
   },
@@ -63,7 +63,7 @@
     "time": 1871,
     "timeDay": 1223,
     "timeWeek": 1846,
-    "timeMonth": 1911,
+    "timeMonth": 1910,
     "timeYear": 1871,
     "dailyMinutesDown": {}
   },
@@ -126,7 +126,7 @@
     "time": 834,
     "timeDay": 585,
     "timeWeek": 553,
-    "timeMonth": 808,
+    "timeMonth": 803,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2024-01-01": 118,
@@ -150,7 +150,7 @@
     "time": 1538,
     "timeDay": 1027,
     "timeWeek": 1692,
-    "timeMonth": 1556,
+    "timeMonth": 1554,
     "timeYear": 1538,
     "dailyMinutesDown": {
       "2023-11-29": 15
@@ -170,7 +170,7 @@
     "time": 538,
     "timeDay": 1043,
     "timeWeek": 523,
-    "timeMonth": 543,
+    "timeMonth": 544,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2023-12-16": 96,
