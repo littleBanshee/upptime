@@ -12,7 +12,7 @@
     "uptimeYear": "95.08%",
     "time": 4877,
     "timeDay": 5405,
-    "timeWeek": 5721,
+    "timeWeek": 5733,
     "timeMonth": 5124,
     "timeYear": 4877,
     "dailyMinutesDown": {
@@ -118,9 +118,9 @@
     "url": "$UNIV_VPN1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-vpn-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "95.60%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.02%",
@@ -130,6 +130,7 @@
     "timeMonth": 786,
     "timeYear": 832,
     "dailyMinutesDown": {
+      "2024-01-03": 0,
       "2024-01-01": 118,
       "2023-12-31": 105,
       "2023-12-30": 160,
