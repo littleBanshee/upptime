@@ -4,17 +4,17 @@
     "url": "$UNIV_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-home",
-    "status": "up",
-    "uptime": "94.89%",
-    "uptimeDay": "75.81%",
-    "uptimeWeek": "83.57%",
-    "uptimeMonth": "94.00%",
-    "uptimeYear": "94.89%",
-    "time": 4947,
-    "timeDay": 6544,
-    "timeWeek": 5848,
-    "timeMonth": 5267,
-    "timeYear": 4947,
+    "status": "degraded",
+    "uptime": "94.92%",
+    "uptimeDay": "75.79%",
+    "uptimeWeek": "83.56%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "94.92%",
+    "time": 4950,
+    "timeDay": 6597,
+    "timeWeek": 5842,
+    "timeMonth": 5269,
+    "timeYear": 4950,
     "dailyMinutesDown": {
       "2024-01-04": 117,
       "2024-01-03": 301,
@@ -28,8 +28,7 @@
       "2023-12-26": 215,
       "2023-12-25": 172,
       "2023-12-24": 214,
-      "2023-12-23": 210,
-      "2023-12-22": 17
+      "2023-12-23": 210
     }
   },
   {
