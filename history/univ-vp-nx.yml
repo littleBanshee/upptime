@@ -1,7 +1,7 @@
 url: $UNIV_VPNX
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-18T23:37:50.053Z
+status: up
+code: 200
+responseTime: 817
+lastUpdated: 2024-01-18T23:44:50.750Z
 startTime: 2023-12-01T00:57:30.717Z
 generator: Upptime <https://github.com/upptime/upptime>
