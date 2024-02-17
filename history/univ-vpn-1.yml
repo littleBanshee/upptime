@@ -1,7 +1,7 @@
 url: $UNIV_VPN1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-17T20:47:36.774Z
+status: up
+code: 200
+responseTime: 406
+lastUpdated: 2024-02-17T20:54:28.922Z
 startTime: 2023-11-29T15:15:07.418Z
 generator: Upptime <https://github.com/upptime/upptime>
