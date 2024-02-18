@@ -4,18 +4,19 @@
     "url": "$UNIV_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-home",
-    "status": "up",
-    "uptime": "97.61%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.65%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
-    "uptimeYear": "97.61%",
+    "uptimeYear": "97.65%",
     "time": 5054,
     "timeDay": 1755,
     "timeWeek": 1587,
     "timeMonth": 3631,
     "timeYear": 5054,
     "dailyMinutesDown": {
+      "2024-02-18": 0,
       "2024-02-07": 16,
       "2024-02-05": 49,
       "2024-02-03": 129,
@@ -34,7 +35,7 @@
       "2024-01-01": 233,
       "2023-12-31": 130,
       "2023-12-30": 156,
-      "2023-12-29": 254
+      "2023-12-29": 209
     }
   },
   {
@@ -125,7 +126,7 @@
     "slug": "univ-vpn-1",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "80.78%",
+    "uptimeDay": "81.39%",
     "uptimeWeek": "95.73%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.11%",
