@@ -4,19 +4,19 @@
     "url": "$UNIV_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-home",
-    "status": "up",
-    "uptime": "98.34%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "98.35%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.34%",
+    "uptimeYear": "98.35%",
     "time": 4985,
     "timeDay": 5624,
     "timeWeek": 5501,
     "timeMonth": 3835,
     "timeYear": 4985,
     "dailyMinutesDown": {
-      "2024-03-24": 16,
+      "2024-03-24": 17,
       "2024-03-10": 24,
       "2024-03-05": 20,
       "2024-02-22": 24,
@@ -38,7 +38,7 @@
       "2024-01-01": 233,
       "2023-12-31": 130,
       "2023-12-30": 156,
-      "2023-12-29": 161
+      "2023-12-29": 131
     }
   },
   {
@@ -46,9 +46,9 @@
     "url": "$UNIV_SSO",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -58,6 +58,7 @@
     "timeMonth": 2061,
     "timeYear": 1932,
     "dailyMinutesDown": {
+      "2024-03-24": 0,
       "2024-02-22": 16
     }
   },
@@ -87,11 +88,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-imaps",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.22%",
+    "uptimeYear": "98.23%",
     "time": 248,
     "timeDay": 250,
     "timeWeek": 240,
