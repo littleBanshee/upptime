@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-home",
     "status": "up",
-    "uptime": "98.35%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "98.35%",
+    "uptime": "98.34%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "98.34%",
     "time": 4982,
     "timeDay": 5423,
     "timeWeek": 5367,
     "timeMonth": 3793,
     "timeYear": 4982,
     "dailyMinutesDown": {
-      "2024-03-24": 30,
+      "2024-03-24": 16,
       "2024-03-10": 24,
       "2024-03-05": 20,
       "2024-02-22": 24,
@@ -38,7 +38,7 @@
       "2024-01-01": 233,
       "2023-12-31": 130,
       "2023-12-30": 156,
-      "2023-12-29": 131
+      "2023-12-29": 161
     }
   },
   {
@@ -47,18 +47,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-sso",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1932,
     "timeDay": 2232,
     "timeWeek": 2135,
     "timeMonth": 2066,
     "timeYear": 1932,
     "dailyMinutesDown": {
-      "2024-03-24": 14,
       "2024-02-22": 16
     }
   },
@@ -67,9 +66,9 @@
     "url": "$UNIV_SHIBBOLETH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "univ-shibboleth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -79,6 +78,7 @@
     "timeMonth": 1994,
     "timeYear": 1885,
     "dailyMinutesDown": {
+      "2024-03-24": 0,
       "2024-03-05": 19
     }
   },
