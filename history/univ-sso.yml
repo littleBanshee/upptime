@@ -1,7 +1,7 @@
 url: $UNIV_SSO
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-24T14:08:44.301Z
+status: up
+code: 200
+responseTime: 2211
+lastUpdated: 2024-03-24T14:22:13.820Z
 startTime: 2023-11-29T10:44:47.147Z
 generator: Upptime <https://github.com/upptime/upptime>
