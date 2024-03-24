@@ -1,7 +1,7 @@
 url: $UNIV_SHIBBOLETH
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-24T14:31:04.898Z
+status: up
+code: 200
+responseTime: 2201
+lastUpdated: 2024-03-24T14:39:38.684Z
 startTime: 2023-11-30T01:37:28.175Z
 generator: Upptime <https://github.com/upptime/upptime>
